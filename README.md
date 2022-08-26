@@ -1,4 +1,4 @@
-# Composicao 3
+# Composição 3
 
 Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um <br.
 sumário do pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser <br>
